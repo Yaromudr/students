@@ -5,6 +5,6 @@ package ru.goblin.entity.person.attributes.visa;
  */
 public class VisaJ extends Visa {
     public VisaJ(String start, String finish) {
-        super(start, finish, 'H');
+        super(start, finish, 'J');
     }
 }
